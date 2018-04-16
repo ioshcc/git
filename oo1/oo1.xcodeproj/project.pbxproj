@@ -18,6 +18,7 @@
 		1146BBA4207E3E3F00E8F5B1 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 1146BBA3207E3E3F00E8F5B1 /* Person.m */; };
 		1146BBA7207E3ECB00E8F5B1 /* BaseClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 1146BBA6207E3ECB00E8F5B1 /* BaseClass.m */; };
 		1146BBAA207E40C700E8F5B1 /* OtherClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 1146BBA9207E40C700E8F5B1 /* OtherClass.m */; };
+		1185F2112084863F00508045 /* text.m in Sources */ = {isa = PBXBuildFile; fileRef = 1185F2102084863F00508045 /* text.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		1146BBA6207E3ECB00E8F5B1 /* BaseClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseClass.m; sourceTree = "<group>"; };
 		1146BBA8207E40C700E8F5B1 /* OtherClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OtherClass.h; sourceTree = "<group>"; };
 		1146BBA9207E40C700E8F5B1 /* OtherClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OtherClass.m; sourceTree = "<group>"; };
+		1185F20F2084863F00508045 /* text.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = text.h; sourceTree = "<group>"; };
+		1185F2102084863F00508045 /* text.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = text.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +105,8 @@
 				1146BBA6207E3ECB00E8F5B1 /* BaseClass.m */,
 				1146BBA8207E40C700E8F5B1 /* OtherClass.h */,
 				1146BBA9207E40C700E8F5B1 /* OtherClass.m */,
+				1185F20F2084863F00508045 /* text.h */,
+				1185F2102084863F00508045 /* text.m */,
 				1146BB81207E3E2700E8F5B1 /* Main.storyboard */,
 				1146BB87207E3E2700E8F5B1 /* Assets.xcassets */,
 				1146BB89207E3E2700E8F5B1 /* LaunchScreen.storyboard */,
@@ -229,6 +234,7 @@
 				1146BBA4207E3E3F00E8F5B1 /* Person.m in Sources */,
 				1146BB8E207E3E2700E8F5B1 /* main.m in Sources */,
 				1146BB7D207E3E2700E8F5B1 /* AppDelegate.m in Sources */,
+				1185F2112084863F00508045 /* text.m in Sources */,
 				1146BBAA207E40C700E8F5B1 /* OtherClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
